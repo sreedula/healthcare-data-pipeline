@@ -1,0 +1,21 @@
+patient_id,visit_date,visit_type,provider,notes,next_appointment
+P001,2024-12-15,Annual Physical,Dr. Smith,Diabetes management discussed,2025-06-15
+P002,2024-11-20,Follow-up,Dr. Johnson,Blood pressure stable,2025-02-20
+P003,2024-10-05,Sick Visit,Dr. Williams,Asthma flare-up,2025-01-05
+P004,2024-09-12,Follow-up,Dr. Brown,COPD stable,2025-03-12
+P005,2024-08-30,Mental Health,Dr. Davis,Medication adjustment,2025-01-30
+P006,2024-12-01,Annual Physical,Dr. Miller,General health good,2025-12-01
+P007,2024-07-18,Follow-up,Dr. Wilson,Bone density discussed,2025-01-18
+P008,2024-11-10,Follow-up,Dr. Moore,Cholesterol improved,2025-02-10
+P009,2024-06-25,Follow-up,Dr. Taylor,Joint pain management,2024-12-25
+P010,2024-12-08,Sick Visit,Dr. Anderson,Migraine treatment,2025-03-08
+P011,2024-05-14,Follow-up,Dr. Thomas,Thyroid levels checked,2024-11-14
+P012,2024-09-22,Sleep Study,Dr. Jackson,CPAP adjustment,2025-03-22
+P013,2024-04-11,Annual Physical,Dr. White,Reproductive health,2025-04-11
+P014,2024-10-30,Cardiology,Dr. Harris,Heart rhythm stable,2025-01-30
+P015,2024-11-25,Follow-up,Dr. Martin,Iron levels improved,2025-02-25
+P016,2024-03-08,Follow-up,Dr. Thompson,Uric acid levels,2024-09-08
+P017,2024-07-02,Pain Management,Dr. Garcia,Fibromyalgia treatment,2025-01-02
+P018,2024-08-15,Urology,Dr. Martinez,Prostate exam,2025-02-15
+P019,2024-06-09,Gynecology,Dr. Lee,Hormone therapy,2024-12-09
+P020,2024-10-17,Physical Therapy,Dr. Chen,Back exercises,2025-01-17

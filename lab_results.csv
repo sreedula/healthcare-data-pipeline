@@ -1,0 +1,23 @@
+patient_id,test_date,test_type,result_value,reference_range,status,provider_notes
+P001,2024-12-15,HbA1c,7.2,<7.0,High,Continue current medication
+P001,2024-12-15,Glucose,145,70-100,High,Monitor closely
+P002,2024-11-20,Blood Pressure,138/88,<120/80,Elevated,Increase medication
+P002,2024-11-20,Cholesterol,195,<200,Normal,Continue diet changes
+P003,2024-10-05,Peak Flow,350,>400,Low,Inhaler technique reviewed
+P004,2024-09-12,Spirometry,65,>80,Low,COPD progression noted
+P005,2024-08-30,PHQ-9,12,<10,Moderate,Therapy recommended
+P006,2024-12-01,Complete Metabolic Panel,Normal,Normal,Normal,Routine screening
+P007,2024-07-18,Bone Density,-2.1,>-1.0,Low,Osteoporosis confirmed
+P008,2024-11-10,Cholesterol,165,<200,Normal,Improvement noted
+P009,2024-06-25,ESR,45,<30,High,Inflammation present
+P010,2024-12-08,MRI Brain,Normal,Normal,Normal,No acute findings
+P011,2024-05-14,TSH,0.8,0.4-4.0,Normal,Thyroid stable
+P012,2024-09-22,Sleep Study,15 AHI,<5,Severe,CPAP recommended
+P013,2024-04-11,Hormone Panel,Normal,Normal,Normal,PCOS managed
+P014,2024-10-30,ECG,Atrial Fib,Normal Rhythm,Abnormal,Rate controlled
+P015,2024-11-25,Iron Studies,45,50-170,Low,Iron supplement started
+P016,2024-03-08,Uric Acid,8.5,3.5-7.0,High,Medication increased
+P017,2024-07-02,Vitamin D,18,30-100,Low,Supplement prescribed
+P018,2024-08-15,PSA,2.8,<4.0,Normal,Annual monitoring
+P019,2024-06-09,Hormone Panel,Low Estrogen,Variable,Low,HRT discussed
+P020,2024-10-17,X-ray Lumbar,Mild DDD,Normal,Abnormal,Physical therapy

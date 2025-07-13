@@ -1,0 +1,21 @@
+patient_id,first_name,last_name,age,gender,primary_diagnosis,phone,email,address
+P001,Jane,Smith,45,F,Type 2 Diabetes,555-0101,jane.smith@email.com,123 Main St
+P002,John,Doe,52,M,Hypertension,555-0102,john.doe@email.com,456 Oak Ave
+P003,Maria,Garcia,38,F,Asthma,555-0103,maria.garcia@email.com,789 Pine Rd
+P004,Robert,Johnson,67,M,COPD,555-0104,robert.johnson@email.com,321 Elm St
+P005,Lisa,Williams,41,F,Depression,555-0105,lisa.williams@email.com,654 Maple Dr
+P006,Michael,Brown,29,M,Anxiety,555-0106,michael.brown@email.com,987 Cedar Ln
+P007,Jennifer,Davis,55,F,Osteoporosis,555-0107,jennifer.davis@email.com,147 Birch St
+P008,David,Miller,48,M,High Cholesterol,555-0108,david.miller@email.com,258 Willow Ave
+P009,Sarah,Wilson,62,F,Arthritis,555-0109,sarah.wilson@email.com,369 Spruce Rd
+P010,Christopher,Moore,35,M,Migraine,555-0110,christopher.moore@email.com,741 Poplar St
+P011,Amanda,Taylor,44,F,Thyroid Disorder,555-0111,amanda.taylor@email.com,852 Ash Dr
+P012,James,Anderson,58,M,Sleep Apnea,555-0112,james.anderson@email.com,963 Hickory Ln
+P013,Michelle,Thomas,33,F,PCOS,555-0113,michelle.thomas@email.com,159 Walnut St
+P014,Daniel,Jackson,71,M,Atrial Fibrillation,555-0114,daniel.jackson@email.com,357 Cherry Ave
+P015,Emily,White,26,F,Anemia,555-0115,emily.white@email.com,468 Peach Rd
+P016,Matthew,Harris,49,M,Gout,555-0116,matthew.harris@email.com,579 Plum St
+P017,Ashley,Martin,39,F,Fibromyalgia,555-0117,ashley.martin@email.com,681 Apple Dr
+P018,Anthony,Thompson,63,M,Prostate Issues,555-0118,anthony.thompson@email.com,792 Orange Ln
+P019,Jessica,Garcia,51,F,Menopause,555-0119,jessica.garcia@email.com,813 Lemon St
+P020,Kevin,Martinez,42,M,Back Pain,555-0120,kevin.martinez@email.com,924 Lime Ave
